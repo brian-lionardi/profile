@@ -190,3 +190,8 @@ h3 {
         margin-bottom: 20px;
     }
 }
+@media (max-width: 768px) {
+  .banner {
+    height: 40vh;
+  }
+}
